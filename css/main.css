@@ -9,9 +9,6 @@ body {
   height: 1096px;
   background: rgba(255,255,255,1);
   opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
   overflow: hidden;
 }
 .v7_9 {
@@ -22,9 +19,6 @@ body {
   background-position: center center;
   background-size: cover;
   opacity: 1;
-  position: absolute;
-  top: 439px;
-  left: 880px;
   border-top-left-radius: 132px;
   border-top-right-radius: 132px;
   border-bottom-left-radius: 132px;
@@ -35,9 +29,6 @@ body {
 .asnmp {
   width: 292px;
   color: rgba(51,51,51,1);
-  position: absolute;
-  top: 583px;
-  left: 814px;
   font-family: Ubuntu;
   font-weight: Bold;
   font-size: 64px;
